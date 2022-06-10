@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home" />
+    <item
+        android:id="@+id/page1Fragment"
+        android:title="Drugs" />
+    <item
+        android:id="@+id/page2Fragment"
+        android:title="Notification settings" />
+    <item
+        android:id="@+id/endFragment"
+        android:title="Disposal method" />
+</menu>
